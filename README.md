@@ -1,7 +1,6 @@
 ## Hi 👋 
 ### I'm Samir 
 #### I'm a Tech Lead and Senior Software Developer
-#### I have 10 years of professional experience in the software industry. I can help you to transform your software into a highly competitive, efficient, performant and scalable cloud native solution. Let's connect !
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samirtabib) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@tabib.samir) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/samir_tabib) [![Malt](https://img.shields.io/badge/Malt-red)](https://www.malt.fr/profile/samirtabib)
 <!--
